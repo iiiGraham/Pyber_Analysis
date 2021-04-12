@@ -8,7 +8,7 @@ When reviewing the average fare per ride and average fare per driver in each cit
 
 Total fare paid is directly proportional to the distance and time required to complete a PyBer trip. We can reasonably assume trips in both Suburban and Rural cities would cover more distance and therfore would require a higher fare.
 
-!["Pyber City Type Summary Data"](analysis/pyber_city_type_summary.png)
+!["Pyber City Type Summary Data"](analysis/pyber_city_type_summary.PNG)
 
 Despite the higher average fares in Suburban and Rural cities, the data shows PyBer makes the majority of their revenue from Urban cities. The number of Urban trips was 1,000 higher than the next closest city type, Suburban, and 1,500 greater than the lowest ranking city type, Rural. 
 
@@ -17,7 +17,7 @@ We can use similar logic from our analysis of why Suburban and Rural fares are g
 ### Pyber City Type Fares Over Time
 The following analysis is based on the interpretation of weekly fares charged in each city type over the first four months of 2019. 
 
-!["Pyber Weekly Fares by City Type"](analysis/Pyber_fare_summary.png)
+!["Pyber Weekly Fares by City Type"](analysis/PyBer_fare_summary.png)
 
 The weekly data over time again shows the relative importance of Urban cities to PyBer's bottom line. Rural cities never accounted for more than $500 of revenue in a given week. Suburban cities accounted for a higher percentage on a weekly basis. 
 
